@@ -1,0 +1,19 @@
+{
+  "name": "client-request-intervals",
+  "version": "1.0.0",
+  "description": "high traffic low payload strategic realtime broadcasting intervals",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neur0plasticity/client-request-intervals.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neur0plasticity/client-request-intervals/issues"
+  },
+  "homepage": "https://github.com/Neur0plasticity/client-request-intervals#readme"
+}
